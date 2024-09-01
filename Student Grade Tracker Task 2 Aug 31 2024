@@ -1,0 +1,48 @@
+Name : T . Prakash 
+College : HITS Chennai
+Intern ID : CD08DS7756 
+Domain: Java Programming 
+Duration : Sep 5th to Oct 5th
+mentor : Muzammil Ahamed
+
+**Over view Of the Project**
+
+Project Title: **Student Grade Tracker**
+
+Objective: Design and develop a system to track and manage student grades, providing a user-friendly interface for teachers to input grades, calculate averages, and display student progress.
+
+**Features**:
+
+1. Grade Input: Allow teachers to input grades for individual students and assignments.
+2. Grade Tracking: Store and manage grades for each student and assignment.
+3. Average Calculation: Calculate the average grade for each student and assignment.
+4. Letter Grade Conversion: Convert average grades to letter grades (A-F).
+5. GPA Calculation: Calculate the Grade Point Average (GPA) for each student.
+6. Student Progress: Display individual student progress and overall class performance.
+7. User Authentication: Allow teachers to log in and access their students' grades.
+8. Data Storage: Store grades and student information in a database or file.
+
+**Functional Requirements:**
+
+1. Teachers can input grades for assignments and students.
+2. The system calculates and displays average grades and GPAs.
+3. The system converts average grades to letter grades.
+4. Teachers can view individual student progress and overall class performance.
+5. The system ensures data accuracy and integrity.
+
+**Non-Functional Requirements:**
+
+1. User-friendly interface for teachers.
+2. Fast and efficient grade calculation and display.
+3. Secure user authentication and data storage.
+4. Scalability to accommodate multiple teachers and students.
+
+**Technical Requirements:**
+
+1. Programming language (e.g., Java, ).
+
+**Deliverables:**
+
+1. A working Student Grade Tracker system.
+2. Source code and documentation.
+
