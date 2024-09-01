@@ -1,5 +1,5 @@
 Name : T . Prakash 
-College : HITS Chennai
+Company Name : Codtech It Solutions
 Intern ID : CD08DS7756 
 Domain: Java Programming 
 Duration : Sep 5th to Oct 5th
